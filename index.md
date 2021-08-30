@@ -7,7 +7,7 @@ title: A propos
 
 deage.m@gmail.com
  
-Post-doctorante au Centre d'Etude et de Recherche Travail, Organisation, Pouvoir (CERTOP, UMR 5044) à Toulouse
+Post-doctorante au CERTOP (UMR 5044)
 
 Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières scientifiques
  
