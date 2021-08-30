@@ -7,7 +7,8 @@ title: A propos
 
 deage.m@gmail.com
  
-Post-doctorante au Centre d'Etude et de Recherche Travail, Organisation, Pouvoir (CERTOP, UMR 5044) à Toulouse.
+Post-doctorante au Centre d'Etude et de Recherche Travail, Organisation, Pouvoir (CERTOP, UMR 5044) à Toulouse
+
 Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières scientifiques
  
 
@@ -19,7 +20,7 @@ Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières 
 | Violence | Méthodes Mixtes  | Interdisciplinarité |
 
 <a href="https://certop.cnrs.fr/">
-<img src="https://societal.genotoul.fr/wp-content/uploads/2018/03/CERTOP-Logo.gif" width="25%" height="25%">
+<img src="https://societal.genotoul.fr/wp-content/uploads/2018/03/CERTOP-Logo.gif" width="20%" height="20%">
 </a> 
 <a href="https://www.gemass.fr/member/deage-margot/">
 <img src="gemass.JPG"  width="20%" height="20%">
