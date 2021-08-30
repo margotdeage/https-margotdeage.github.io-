@@ -10,7 +10,10 @@ deage.m@gmail.com
 Post-doctorante au CERTOP (UMR 5044)
 
 Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières scientifiques
- 
+
+<a href="https://certop.cnrs.fr/">
+<img src="https://societal.genotoul.fr/wp-content/uploads/2018/03/CERTOP-Logo.gif" width="20%" height="20%">
+</a> 
 
 ### Thématiques de recherche
 
@@ -19,15 +22,16 @@ Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières 
 | Réseaux sociaux  | Genre | Rumeurs  | 
 | Violence | Méthodes Mixtes  | Interdisciplinarité |
 
-<a href="https://certop.cnrs.fr/">
-<img src="https://societal.genotoul.fr/wp-content/uploads/2018/03/CERTOP-Logo.gif" width="20%" height="20%">
-</a> 
+### Collectifs associés
+
 <a href="https://www.gemass.fr/member/deage-margot/">
 <img src="gemass.JPG"  width="20%" height="20%">
 </a> 
 <a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
 <img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png" width="15%" height="15%">
 </a> 
+
+### Réseaux professionnels
  
 <a href="https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  width="4%" height="4%">
