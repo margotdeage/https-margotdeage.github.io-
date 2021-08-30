@@ -5,7 +5,13 @@ title: A propos
 
 <img alt="Margot Déage" src="Margot déage.jpeg"  width="18%" height="18%" /> 
 
+### Contact
+
 deage.m@gmail.com
+
+N'hésitez pas à m'écrire, je vous répondrai au plus vite.
+
+### Situation actuelle
  
 Post-doctorante au CERTOP (UMR 5044)
 
