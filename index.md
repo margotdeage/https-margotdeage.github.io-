@@ -7,7 +7,8 @@ title: A propos
 
 deage.m@gmail.com
  
- ATER à l'Université Paris-Est Créteil
+Post-doctorante au Centre d'Etude et de Recherche Travail, Organisation, Pouvoir (CERTOP, UMR 5044) à Toulouse.
+Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières scientifiques
  
 
 ### Thématiques de recherche
@@ -17,8 +18,8 @@ deage.m@gmail.com
 | Réseaux sociaux  | Genre | Rumeurs  | 
 | Violence | Méthodes Mixtes  | Interdisciplinarité |
 
-<a href="https://lirtes.u-pec.fr/">
-<img src="https://lirtes.u-pec.fr/uas/lirtes/LOGO_MOBILE/2018-Logo-LIRTES.svg" width="25%" height="25%">
+<a href="https://certop.cnrs.fr/">
+<img src="https://societal.genotoul.fr/wp-content/uploads/2018/03/CERTOP-Logo.gif" width="25%" height="25%">
 </a> 
 <a href="https://www.gemass.fr/member/deage-margot/">
 <img src="gemass.JPG"  width="20%" height="20%">
