@@ -15,7 +15,7 @@ title: Enseignements
 ### 2019-20 : ATER aux INSPE de Poitiers et de Niort, Master MEEF PLC, EE et IPHD
 
 + Séminaire de recherche : socialisations adolescentes (M2, TD, 25h)
- ++Encadrement de 15 mémoires
+ + Encadrement de 15 mémoires
 + Analyse de questionnaire (M2, TD, 7h)
 + Inclusion et différenciation (M2, CM, 10h / TD, 35h)
 + Apprendre et faire apprendre (M2, CM, 8h / TD, 40h)
