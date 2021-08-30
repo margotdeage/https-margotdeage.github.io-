@@ -25,7 +25,7 @@ Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières 
 
 | Communication| Education  | Réputation  | 
 | Numérique | Jeunesse  | Confiance | 
-| Réseaux sociaux  | Genre | Rumeurs  | 
+| Réseaux sociaux  | Genre | Orientation  | 
 | Violence | Méthodes Mixtes  | Interdisciplinarité |
 
 ### Collectifs associés
