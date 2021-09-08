@@ -15,7 +15,7 @@ N'hésitez pas à m'écrire, je vous répondrai au plus vite.
  
 Post-doctorante au CERTOP (UMR 5044)
 
-Etude des parcours des bacheliers de l'Académie de Toulouse dans les filières scientifiques
+Etude des parcours des bacheliers scientifiques de l'Académie de Toulouse 
 
 <a href="https://certop.cnrs.fr/">
 <img src="https://societal.genotoul.fr/wp-content/uploads/2018/03/CERTOP-Logo.gif" width="20%" height="20%">
