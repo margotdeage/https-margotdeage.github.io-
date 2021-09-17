@@ -51,6 +51,6 @@ Etude des parcours des bacheliers scientifiques de l'Académie de Toulouse
 <a href="https://univ-tlse2.academia.edu/MargotD%C3%A9age">
 <img src="https://image.flaticon.com/icons/png/512/2111/2111319.png" width="4%" height="4%">
 </a> 
-<a href="https://twitter.com/stalkologist">
+<a href="https://twitter.com/MargotDeage">
 <img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/twitterimg%20copy.png" width="4%" height="4%" >
 </a> 
